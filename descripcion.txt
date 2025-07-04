@@ -1,0 +1,8 @@
+¿Qué aspectos del desarrollo te parecieron interesantes o desafiantes?
+Me pareció bastante interesante y desafiante volver a conectarme con una base de datos MySQL. Por comodidad, en los últimos proyectos he utilizado MongoDB debido a su facilidad de uso y su interfaz más amigable. Sin embargo, trabajar nuevamente con MySQL puso a prueba mi capacidad para recordar lo aprendido, resolver conflictos técnicos y, sobre todo, mantener la paciencia durante el proceso.
+
+¿Qué dificultades técnicas encontraste y cómo las resolviste?
+Como mencioné anteriormente, una de las principales dificultades fue establecer la conexión con MySQL. A pesar de ello, logré solucionarlo apoyándome en documentación oficial, tutoriales en video y herramientas de inteligencia artificial. Finalmente, se logró una conexión exitosa y estable con la base de datos.
+
+Opinión general sobre la experiencia de realizar la prueba
+Ha sido realmente interesante realizar esta prueba técnica. Es la primera vez que participo en una evaluación formal con instrucciones claras y específicas. Si bien he trabajado en desarrollos para otras personas, normalmente he tenido libertad para implementar las soluciones a mi manera. En esta ocasión, tener que seguir estrictamente una guía me permitió reforzar conocimientos que había dejado de usar y me desafió a buscar soluciones precisas y efectivas para cumplir con los requisitos planteados.
